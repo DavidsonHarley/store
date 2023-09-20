@@ -14,13 +14,6 @@ const Footer = () => (
       </Link>
     </div>
 
-    <div className={styles.rights}>
-      Developed by{" "}
-      <a href="https://youtube.com/Tomkovich" target="_blank" rel="noreferrer">
-        Tomkovich
-      </a>
-    </div>
-
     <div className={styles.socials}>
       <a href="https://instagram.com" target="_blank" rel="noreferrer">
         <svg className="icon">
